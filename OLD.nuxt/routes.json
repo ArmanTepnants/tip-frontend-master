@@ -1,0 +1,352 @@
+[
+  {
+    "name": "about___es",
+    "path": "/about",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_029d0126"
+  },
+  {
+    "name": "blog___es",
+    "path": "/blog",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_1d19f072"
+  },
+  {
+    "name": "business___es",
+    "path": "/business",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/business.vue",
+    "chunkName": "pages/business",
+    "_name": "_65d634e0"
+  },
+  {
+    "name": "contact-us___es",
+    "path": "/contact-us",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_3f2009bb"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1e695a32"
+  },
+  {
+    "name": "get-started___es",
+    "path": "/get-started",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/get-started.vue",
+    "chunkName": "pages/get-started",
+    "_name": "_14125c6a"
+  },
+  {
+    "name": "print___es",
+    "path": "/print",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/print.vue",
+    "chunkName": "pages/print",
+    "_name": "_392102e6"
+  },
+  {
+    "name": "privacy-policy___es",
+    "path": "/privacy-policy",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/privacy-policy.vue",
+    "chunkName": "pages/privacy-policy",
+    "_name": "_466a8932"
+  },
+  {
+    "name": "profile___es",
+    "path": "/profile",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/profile/index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_b033bd68"
+  },
+  {
+    "name": "staff___es",
+    "path": "/staff",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/staff.vue",
+    "chunkName": "pages/staff",
+    "_name": "_8b3d8580"
+  },
+  {
+    "name": "start___es",
+    "path": "/start",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/start.vue",
+    "chunkName": "pages/start",
+    "_name": "_60bea47c"
+  },
+  {
+    "name": "terms-and-conditions___es",
+    "path": "/terms-and-conditions",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/terms-and-conditions.vue",
+    "chunkName": "pages/terms-and-conditions",
+    "_name": "_c6c06d78"
+  },
+  {
+    "name": "transactions___es",
+    "path": "/transactions",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/transactions.vue",
+    "chunkName": "pages/transactions",
+    "_name": "_1c76feb6"
+  },
+  {
+    "name": "transfer___es",
+    "path": "/transfer",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/transfer/index.vue",
+    "chunkName": "pages/transfer/index",
+    "_name": "_da2a0304"
+  },
+  {
+    "name": "company-ratings___es",
+    "path": "/company/ratings",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/company/ratings.vue",
+    "chunkName": "pages/company/ratings",
+    "_name": "_5518ed44"
+  },
+  {
+    "name": "company-staff___es",
+    "path": "/company/staff",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/company/staff.vue",
+    "chunkName": "pages/company/staff",
+    "_name": "_3ab783a4"
+  },
+  {
+    "name": "company-transactions___es",
+    "path": "/company/transactions",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/company/transactions.vue",
+    "chunkName": "pages/company/transactions",
+    "_name": "_1b7937f7"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_029d0126"
+  },
+  {
+    "name": "blog___en",
+    "path": "/en/blog",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_1d19f072"
+  },
+  {
+    "name": "business___en",
+    "path": "/en/business",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/business.vue",
+    "chunkName": "pages/business",
+    "_name": "_65d634e0"
+  },
+  {
+    "name": "contact-us___en",
+    "path": "/en/contact-us",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_3f2009bb"
+  },
+  {
+    "name": "get-started___en",
+    "path": "/en/get-started",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/get-started.vue",
+    "chunkName": "pages/get-started",
+    "_name": "_14125c6a"
+  },
+  {
+    "name": "print___en",
+    "path": "/en/print",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/print.vue",
+    "chunkName": "pages/print",
+    "_name": "_392102e6"
+  },
+  {
+    "name": "privacy-policy___en",
+    "path": "/en/privacy-policy",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/privacy-policy.vue",
+    "chunkName": "pages/privacy-policy",
+    "_name": "_466a8932"
+  },
+  {
+    "name": "profile___en",
+    "path": "/en/profile",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/profile/index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_b033bd68"
+  },
+  {
+    "name": "staff___en",
+    "path": "/en/staff",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/staff.vue",
+    "chunkName": "pages/staff",
+    "_name": "_8b3d8580"
+  },
+  {
+    "name": "start___en",
+    "path": "/en/start",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/start.vue",
+    "chunkName": "pages/start",
+    "_name": "_60bea47c"
+  },
+  {
+    "name": "terms-and-conditions___en",
+    "path": "/en/terms-and-conditions",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/terms-and-conditions.vue",
+    "chunkName": "pages/terms-and-conditions",
+    "_name": "_c6c06d78"
+  },
+  {
+    "name": "transactions___en",
+    "path": "/en/transactions",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/transactions.vue",
+    "chunkName": "pages/transactions",
+    "_name": "_1c76feb6"
+  },
+  {
+    "name": "transfer___en",
+    "path": "/en/transfer",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/transfer/index.vue",
+    "chunkName": "pages/transfer/index",
+    "_name": "_da2a0304"
+  },
+  {
+    "name": "profile-edit___es",
+    "path": "/profile/edit",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/profile/edit.vue",
+    "chunkName": "pages/profile/edit",
+    "_name": "_6ea6a880"
+  },
+  {
+    "name": "users-password___es",
+    "path": "/users/password",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/users/password.vue",
+    "chunkName": "pages/users/password",
+    "_name": "_793a6192"
+  },
+  {
+    "name": "users-sign-in___es",
+    "path": "/users/sign-in",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/users/sign-in.vue",
+    "chunkName": "pages/users/sign-in",
+    "_name": "_ac5a7ce4"
+  },
+  {
+    "name": "users-sign-up-as-administrator___es",
+    "path": "/users/sign-up-as-administrator",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/users/sign-up-as-administrator.vue",
+    "chunkName": "pages/users/sign-up-as-administrator",
+    "_name": "_7a3c1c6a"
+  },
+  {
+    "name": "users-sign-up-as-recipient___es",
+    "path": "/users/sign-up-as-recipient",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/users/sign-up-as-recipient.vue",
+    "chunkName": "pages/users/sign-up-as-recipient",
+    "_name": "_39087e17"
+  },
+  {
+    "name": "company-ratings___en",
+    "path": "/en/company/ratings",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/company/ratings.vue",
+    "chunkName": "pages/company/ratings",
+    "_name": "_5518ed44"
+  },
+  {
+    "name": "company-staff___en",
+    "path": "/en/company/staff",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/company/staff.vue",
+    "chunkName": "pages/company/staff",
+    "_name": "_3ab783a4"
+  },
+  {
+    "name": "company-transactions___en",
+    "path": "/en/company/transactions",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/company/transactions.vue",
+    "chunkName": "pages/company/transactions",
+    "_name": "_1b7937f7"
+  },
+  {
+    "name": "profile-edit___en",
+    "path": "/en/profile/edit",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/profile/edit.vue",
+    "chunkName": "pages/profile/edit",
+    "_name": "_6ea6a880"
+  },
+  {
+    "name": "users-password___en",
+    "path": "/en/users/password",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/users/password.vue",
+    "chunkName": "pages/users/password",
+    "_name": "_793a6192"
+  },
+  {
+    "name": "users-sign-in___en",
+    "path": "/en/users/sign-in",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/users/sign-in.vue",
+    "chunkName": "pages/users/sign-in",
+    "_name": "_ac5a7ce4"
+  },
+  {
+    "name": "users-sign-up-as-administrator___en",
+    "path": "/en/users/sign-up-as-administrator",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/users/sign-up-as-administrator.vue",
+    "chunkName": "pages/users/sign-up-as-administrator",
+    "_name": "_7a3c1c6a"
+  },
+  {
+    "name": "users-sign-up-as-recipient___en",
+    "path": "/en/users/sign-up-as-recipient",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/users/sign-up-as-recipient.vue",
+    "chunkName": "pages/users/sign-up-as-recipient",
+    "_name": "_39087e17"
+  },
+  {
+    "name": "payment-success-id___en",
+    "path": "/en/payment/success/:id?",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/payment/success/_id.vue",
+    "chunkName": "pages/payment/success/_id",
+    "_name": "_6c36c5f6"
+  },
+  {
+    "name": "invite-id___en",
+    "path": "/en/invite/:id?",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/invite/_id.vue",
+    "chunkName": "pages/invite/_id",
+    "_name": "_050320f8"
+  },
+  {
+    "name": "payment-id___en",
+    "path": "/en/payment/:id?",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/payment/_id.vue",
+    "chunkName": "pages/payment/_id",
+    "_name": "_25b3fbde"
+  },
+  {
+    "name": "payment-success-id___es",
+    "path": "/payment/success/:id?",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/payment/success/_id.vue",
+    "chunkName": "pages/payment/success/_id",
+    "_name": "_6c36c5f6"
+  },
+  {
+    "name": "invite-id___es",
+    "path": "/invite/:id?",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/invite/_id.vue",
+    "chunkName": "pages/invite/_id",
+    "_name": "_050320f8"
+  },
+  {
+    "name": "payment-id___es",
+    "path": "/payment/:id?",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/payment/_id.vue",
+    "chunkName": "pages/payment/_id",
+    "_name": "_25b3fbde"
+  },
+  {
+    "name": "index___es",
+    "path": "/",
+    "component": "/Users/macbook/sources/tips/tip-frontend-master/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1e695a32"
+  }
+]

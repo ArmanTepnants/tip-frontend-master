@@ -1,0 +1,51 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^1.0.2",
+    "@google-pay/button-element": "^3.0.9",
+    "@nuxtjs/auth-next": "*",
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/device": "^2.0.1",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/i18n": "^7.1.0",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/recaptcha": "^1.1.2",
+    "@nuxtjs/vuetify": "^1.11.3",
+    "@revolut/checkout": "^1.1.9",
+    "@stripe/stripe-js": "^2.3.0",
+    "child_process": "^1.0.2",
+    "cookieparser": "^0.1.0",
+    "core-js": "^3.8.3",
+    "countries-list": "^2.6.1",
+    "js-cookie": "^2.2.1",
+    "leaflet": "^1.9.3",
+    "nuxt": "^2.14.12",
+    "nuxt-cookie-control": "^1.9.93",
+    "nuxt-stripe-module": "^3.2.0",
+    "stripe": "^14.12.0",
+    "v-currency-field": "^3.1.2",
+    "vue": "^2.7.16",
+    "vue-avatar-editor-improved": "^1.0.7",
+    "vue-phone-number-input": "^1.1.10",
+    "vue-server-renderer": "^2.7.16",
+    "vue-the-mask": "^0.11.1",
+    "vuetify-phone-number-input": "^1.0.0"
+  },
+  "author": "a@romanchuk.moscow",
+  "license": "ISC",
+  "devDependencies": {
+    "nuxt-security": "^1.0.0"
+  },
+  "engines": {
+    "node": "16.19.1"
+  }
+}

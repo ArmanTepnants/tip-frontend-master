@@ -1,0 +1,89 @@
+{
+  "AuthorizedNav": {
+    "description": "Auto imported from components/AuthorizedNav.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Nav": {
+    "description": "Auto imported from components/Nav.vue"
+  },
+  "ProfileBar": {
+    "description": "Auto imported from components/ProfileBar.vue"
+  },
+  "WhatOurServiceDo": {
+    "description": "Auto imported from components/WhatOurServiceDo.vue"
+  },
+  "AuthChangePasswordDialog": {
+    "description": "Auto imported from components/auth/ChangePasswordDialog.vue"
+  },
+  "AuthSignUpForm": {
+    "description": "Auto imported from components/auth/SignUpForm.vue"
+  },
+  "AuthVerificationPhoneNumberDialog": {
+    "description": "Auto imported from components/auth/VerificationPhoneNumberDialog.vue"
+  },
+  "MainBusinessOwners": {
+    "description": "Auto imported from components/main/BusinessOwners.vue"
+  },
+  "MainFaq": {
+    "description": "Auto imported from components/main/Faq.vue"
+  },
+  "MainGetStarted": {
+    "description": "Auto imported from components/main/GetStarted.vue"
+  },
+  "MainHowDoesItWork": {
+    "description": "Auto imported from components/main/HowDoesItWork.vue"
+  },
+  "MainHowMuchItCosts": {
+    "description": "Auto imported from components/main/HowMuchItCosts.vue"
+  },
+  "MainHowToPay": {
+    "description": "Auto imported from components/main/HowToPay.vue"
+  },
+  "MainItsConvenient": {
+    "description": "Auto imported from components/main/ItsConvenient.vue"
+  },
+  "MainOfferToUseApp": {
+    "description": "Auto imported from components/main/OfferToUseApp.vue"
+  },
+  "MainServicePartners": {
+    "description": "Auto imported from components/main/ServicePartners.vue"
+  },
+  "MainWhereSetUpQRCode": {
+    "description": "Auto imported from components/main/WhereSetUpQRCode.vue"
+  },
+  "MainWhoNeedsOurService": {
+    "description": "Auto imported from components/main/WhoNeedsOurService.vue"
+  },
+  "MainWithdrawFunds": {
+    "description": "Auto imported from components/main/WithdrawFunds.vue"
+  },
+  "AboutUsForWhomService": {
+    "description": "Auto imported from components/aboutUs/ForWhomService.vue"
+  },
+  "AboutUsJoinOurService": {
+    "description": "Auto imported from components/aboutUs/JoinOurService.vue"
+  },
+  "AboutUsOurVisionAndMission": {
+    "description": "Auto imported from components/aboutUs/OurVisionAndMission.vue"
+  },
+  "AboutUsWhyUseOurService": {
+    "description": "Auto imported from components/aboutUs/WhyUseOurService.vue"
+  },
+  "HowToStartInstructions": {
+    "description": "Auto imported from components/howToStart/Instructions.vue"
+  },
+  "HowToStartPaymentStep": {
+    "description": "Auto imported from components/howToStart/PaymentStep.vue"
+  },
+  "HowToStartQrCodeStep": {
+    "description": "Auto imported from components/howToStart/QrCodeStep.vue"
+  },
+  "HowToStartRegistrationStep": {
+    "description": "Auto imported from components/howToStart/RegistrationStep.vue"
+  },
+  "HowToStartWithdrawMoneyStep": {
+    "description": "Auto imported from components/howToStart/WithdrawMoneyStep.vue"
+  }
+}
